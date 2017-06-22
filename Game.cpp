@@ -115,7 +115,7 @@ int main() {
 
 			if(onGround) {
 
-				yVel = -30;
+				yVel = -25;
 				onGround = false;
 				jumping = true;
 			}
